@@ -1,6 +1,5 @@
 {
-  "name": "benfolio",
-  "private": true,
+  "name": "portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

@@ -1,34 +1,30 @@
 {
-  "job": "Frontend Developer",
-  "name": "John Doe",
-  "desc": "The traveler of this path, a web designer in Turkey.",
-  "aboutDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-  "email": "john.doe@example.com",
+  "job": "Web Developer",
+  "name": "Abhay Mishra",
+  "desc": "The traveler of this path, a web designer in India.",
+  "aboutDesc": "I am Abhay Mishra, a web developer with a strong foundation in HTML, CSS, and JavaScript. I have basic knowledge of React and Express.js, and I am proficient in creating MongoDB servers for database management, using MongoDB as my preferred database solution.",
+  "email": "abhayansh.mishra1371@gmail.com",
   "status": "on",
-  "hireMeLink": "https://twitter.com/iamkaanayyildiz",
+  "hireMeLink": "https://www.linkedin.com/in/abhaymishra1371/",
   "projects": [
     {
-      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
-      "project-name": "Benfolio",
-      "project-desc": "React + Tailwind Portfolio"
+      "project-name": "Quote's",
+      "project-desc": "HTML , CSS , JS + Tailwind "
     }
   ],
   "social": [
-    {
-      "icon": "FaXTwitter",
-      "link": "https://x.com"
-    },
+    
     {
       "icon": "FaInstagram",
-      "link": "https://instagram.com"
+      "link": "https://www.instagram.com/_abhay_mishra206/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com"
+      "link": "https://github.com/MasterAbhayMishra"
     },
     {
       "icon": "FaLinkedinIn",
-      "link": "https://linkedin.com"
+      "link": "https://www.linkedin.com/in/abhaymishra1371/"
     }
   ]
 }
