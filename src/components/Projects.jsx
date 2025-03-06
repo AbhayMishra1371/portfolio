@@ -31,7 +31,7 @@ export default function Card() {
            <button
               type="button"
               className="gap-x-2 text-gray-900 bg-white border border-gray-200 hover:border-gray-300 transition-all duration-300 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center"
-               href="https://github.com/MasterAbhayMishra">
+               href="https://abhaymishra1371.github.io/Quotes-website/">
             
               View All on Github
             </button>
